@@ -32,6 +32,6 @@
     },
     "devDependencies": {
         "webcomponentsjs": "webcomponents/webcomponentsjs#v1",
-        "web-component-tester"
+        "web-component-tester": "Polymer/web-component-tester"
     }
 }
