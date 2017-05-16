@@ -28,10 +28,10 @@
         "tests"
     ],
     "dependencies": {
-        "polymer": "Polymer/polymer#2.0-preview"
+        "polymer": "Polymer/polymer#2"
     },
     "devDependencies": {
-        "webcomponentsjs": "webcomponents/webcomponentsjs#v1",
-        "web-component-tester": "Polymer/web-component-tester"
+        "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0",
+        "web-component-tester": "^6.0.0"
     }
 }
